@@ -1,23 +1,26 @@
 {
-  "name": "package.json",
+  "name": "friendfinder1234",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.1",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "git+https://github.com/RaidoFive/FriendFinder.git"
   },
-  "author": "Steve",
-  "license": "ISC"
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RaidoFive/FriendFinder/issues"
   },
-  "homepage": "",
-  "dependencies": {
-    "body-parser": "^1.17.2",
-    "express": "^4.15.4",
-    "path": "^0.12.7"
-  }
+  "homepage": "https://github.com/RaidoFive/FriendFinder#readme"
 }
