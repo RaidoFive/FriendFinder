@@ -1,7 +1,7 @@
 {
-  "name": "friendfinder",
+  "name": "package.json",
   "version": "1.0.0",
-  "description": "friendfinder application",
+  "description": "",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -9,23 +9,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/RaidoFive/FriendFinder.git"
+    "url": ""
   },
-  "keywords": [
-    "friend",
-    "finder",
-    "app",
-    "survey"
-  ],
-  "author": "Steve Hopkins",
+  "author": "Steve",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/RaidoFive/FriendFinder/issues"
+    "
   },
-  "homepage": "https://github.com/RaidoFive/FriendFinder#readme",
+  "homepage": "",
   "dependencies": {
-    "body-parser": "^1.15.2",
-    "express": "^4.14.0",
+    "body-parser": "^1.17.2",
+    "express": "^4.15.4",
     "path": "^0.12.7"
   }
 }
