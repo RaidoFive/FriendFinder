@@ -14,9 +14,7 @@ module.exports = function(app){
   app.get("/api/friends", function(req, res){
     res.json(friends);
   });
-   //app.get("/api/selectedFriend", function(req, res) {
-
-   //}
+  
   // POST Request
   // The code below handles when a user submits the survey
   // form (as a JSON object)
@@ -68,7 +66,7 @@ module.exports = function(app){
 
     //return the object at the index equal to the value of the index var assigned above
     res.json(friends[index]);
-    //console.log("blah", friends[index]);
+    console.log("blah", friends[index]);
     return friends[index];
   });
 }
