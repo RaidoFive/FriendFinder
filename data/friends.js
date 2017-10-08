@@ -1,7 +1,7 @@
 var friendArray = [
   {
     name: "Jon",
-    photo: "https://68.media.tumblr.com/avatar_0aeca7a262ac_128.png",
+    photo: "http://images4.fanpop.com/image/photos/21700000/jon-jon-snow-21739260-1280-720.jpg",
     scores: [
       "2",
       "5",
@@ -18,7 +18,7 @@ var friendArray = [
   },
   {
     name: "Joe",
-    photo: "https://68.media.tumblr.com/avatar_c11820e0c39e_128.png",
+    photo: "http://www.cyberboxingzone.com/images/louis-joe-22.jpg",
     scores: [
       "1",
       "5",
@@ -35,7 +35,7 @@ var friendArray = [
   },
   {
     name: "Jack",
-    photo: "https://68.media.tumblr.com/avatar_e9bf3a249960_128.png",
+    photo: "http://images4.fanpop.com/image/photos/23200000/Jack-Nicholson-jack-nicholson-23272476-1024-768.jpg",
     scores: [
       "5",
       "4",
@@ -52,7 +52,7 @@ var friendArray = [
   }, 
   {
     name: "Jill",
-    photo: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr1rBm0_i9_Rcx7JpH-F7DfVmsgaxpQPhaIZ-g2Xj20hxrZr52",
+    photo: "http://upload.wikimedia.org/wikipedia/commons/9/99/Jill_Wagner_2012.jpg",
     scores: [
       "1",
       "5",
@@ -69,7 +69,7 @@ var friendArray = [
   },
   {
     name: "Jim",
-    photo: "https://pbs.twimg.com/profile_images/810859404312584193/tkY7yIQ-_reasonably_small.jpg",
+    photo: "http://images.fanpop.com/images/image_uploads/Jim-Carrey-jim-carrey-394850_496_640.jpg",
     scores: [
       "2",
       "5",
